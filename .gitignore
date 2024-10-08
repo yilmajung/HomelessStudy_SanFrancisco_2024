@@ -65,3 +65,10 @@ runs_gpu/train3/val_batch1_labels.jpg
 runs_gpu/train3/val_batch1_pred.jpg
 runs_gpu/train3/val_batch2_labels.jpg
 runs_gpu/train3/val_batch2_pred.jpg
+gp_practice.ipynb
+cleanse_311_data.ipynb
+create_bbox_extract_geoid_dc.py
+gaussian_processes_util.py
+temp_311_category.csv
+time_series_forecasting.ipynb
+__pycache__/gaussian_processes_util.cpython-311.pyc
