@@ -1,0 +1,7 @@
+{
+    "start_range": 0,
+    "end_range": 10,
+    "box_threshold": 0.4,
+    "text_threshold": 0.4,
+    "text_prompt": "tent"
+}
